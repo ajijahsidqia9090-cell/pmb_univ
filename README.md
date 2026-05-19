@@ -67,7 +67,7 @@ uploads/
     
 ⚙️ Installation
 Clone repository:
-https://github.com/username/pmb-system.git
+https://github.com/ajijahsidqia9090-cell/pmb_univ.git
 
 
 🧑‍💻 User Role
