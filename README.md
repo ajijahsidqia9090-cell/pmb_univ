@@ -1,24 +1,22 @@
-📰 Sistem PMB Online (PHP & MySQL)
-📖 Description
+# 📰 Sistem PMB Online (PHP & MySQL)
+## 📖 Description
 
 Website ini merupakan Sistem Penerimaan Mahasiswa Baru (PMB) berbasis PHP dan MySQL yang digunakan untuk mengelola proses pendaftaran mahasiswa secara online mulai dari registrasi, pendaftaran, upload dokumen, pembayaran, hingga pengumuman hasil seleksi dan OSPEK.
 
-Sistem ini memiliki 2 level pengguna utama:
+## Sistem ini memiliki 2 level pengguna utama:
 
 👨‍💼 Admin
 🎓 Mahasiswa
-
 Setiap pengguna memiliki hak akses berbeda sesuai dengan perannya dalam sistem.
 
 
-🚀 Features
-🔐 Authentication
+## 🚀 Features
+### 🔐 Authentication
 Login & Logout
 Session-based security
 Role-based access (Admin & Mahasiswa)
 
-
-🎓 Fitur Mahasiswa
+### 🎓 Fitur Mahasiswa
 📝 Pendaftaran mahasiswa baru
 📄 Upload dokumen (KTP, ijazah, foto)
 💳 Pembayaran PMB & daftar ulang
@@ -28,14 +26,16 @@ Role-based access (Admin & Mahasiswa)
 🔁 Daftar ulang setelah lulus
 
 
-👨‍💼 Fitur Admin
+### 👨‍💼 Fitur Admin
 📊 Dashboard statistik (total user, pendaftar, lulus, pembayaran)
 📝 Verifikasi berkas pendaftaran
 💰 Verifikasi pembayaran
 📢 Kelola pengumuman hasil seleksi
 🏫 Kelola data OSPEK
 👥 Manajemen data mahasiswa
-📂 Project Structure
+
+
+## 📂 Project Structure
 pmb/
 
 index.php → Landing page (public)
@@ -65,20 +65,20 @@ uploads/
     → Folder file dokumen & bukti pembayaran
 
     
-⚙️ Installation
+## ⚙️ Installation
 Clone repository:
 https://github.com/ajijahsidqia9090-cell/pmb_univ.git
 
 
-🧑‍💻 User Role
-👨‍💼 Admin
+## 🧑‍💻 User Role
+### 👨‍💼 Admin
 Mengelola seluruh data sistem PMB
 Verifikasi berkas & pembayaran
 Mengumumkan hasil seleksi
 Mengatur OSPEK
 
 
-🎓 Mahasiswa
+### 🎓 Mahasiswa
 Mendaftar sebagai calon mahasiswa
 Upload dokumen
 Melakukan pembayaran
@@ -87,11 +87,10 @@ Daftar ulang jika lulus
 Mengikuti OSPEK
 
 
-📌 Notes
-
+## 📌 Notes
 Project ini dibuat untuk keperluan pembelajaran dan tugas akademik dalam pengembangan sistem informasi berbasis web menggunakan PHP & MySQL.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Nama: Khajizatu Sidqiyah
 NIM: 2488010044
 Kelas: Informatika-B
